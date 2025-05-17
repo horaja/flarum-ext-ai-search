@@ -20,9 +20,9 @@
     },
 		"license": "MIT",
 		"author": [
-				{
-						"name": "Husain Raja",
-						"email": "horaja@andrew.cmu.edu"
-				}
+			{
+				"name": "Husain Raja",
+				"email": "horaja@andrew.cmu.edu"
+			}
 		]
 }
